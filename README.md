@@ -66,7 +66,73 @@ $ curl -s https://api.gauri.dev/bio
 
 ---
 
+### 🎮 Interactive Terminal
+
+```bash
+$ gauri --help
+```
+
+<details>
+  <summary><b>📂 run gauri --projects</b> (Click to execute)</summary>
+  <br/>
+
+  ```json
+  [
+    {
+      "name": "PoshanAI",
+      "impact": "Malnutrition diagnosis with SHAP-driven explainability"
+    },
+    {
+      "name": "Campus Ride",
+      "impact": "Ride-sharing with live routing & Socket.io sync"
+    },
+    {
+      "name": "HelloBharat",
+      "impact": "Tourist safety platform with real-time geofencing"
+    }
+  ]
+  ```
+</details>
+
+<details>
+  <summary><b>⚡ run gauri --stats</b> (Click to execute)</summary>
+  <br/>
+
+  ```yaml
+  metrics:
+    academic: PICT Computer Engineering (CGPA: 9.79)
+    leadership: Chairperson at IEEE Student Branch
+    contributions: 500+ DSA problems solved
+  ```
+</details>
+
+<details>
+  <summary><b>🎲 run gauri --trivia</b> (Click to execute)</summary>
+  <br/>
+
+  **Q: What Dijkstra's optimization is used in Campus Ride?**  
+  *A:* It uses min-priority queues for high-performance single-source shortest path routing! 🚀
+</details>
+
+---
+
 ### 📬 Connect
 
-[LinkedIn](https://linkedin.com/in/gauri-sonawane/) &nbsp;·&nbsp; [GitHub](https://github.com/Gauri1466) &nbsp;·&nbsp; [LeetCode](https://leetcode.com/Gauri1466/) &nbsp;·&nbsp; [gaurisonawane1466@gmail.com](mailto:gaurisonawane1466@gmail.com)
+<p align="left">
+  <a href="https://linkedin.com/in/gauri-sonawane/" target="_blank">
+    <img src="https://skillicons.dev/icons?i=linkedin" height="42" alt="LinkedIn" />
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://github.com/Gauri1466" target="_blank">
+    <img src="https://skillicons.dev/icons?i=github" height="42" alt="GitHub" />
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://leetcode.com/Gauri1466/" target="_blank">
+    <img src="https://skillicons.dev/icons?i=leetcode" height="42" alt="LeetCode" />
+  </a>
+  &nbsp;&nbsp;
+  <a href="mailto:gaurisonawane1466@gmail.com">
+    <img src="https://skillicons.dev/icons?i=gmail" height="42" alt="Gmail" />
+  </a>
+</p>
 
