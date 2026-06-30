@@ -78,7 +78,7 @@ $ curl -s https://api.gauri.dev/bio
     <img src="https://skillicons.dev/icons?i=github" height="42" alt="GitHub" />
   </a>
   &nbsp;&nbsp;
-  <a href="https://leetcode.com/Gauri1466/" target="_blank">
+  <a href="https://leetcode.com/Gauri_1466/" target="_blank">
     <img src="https://skillicons.dev/icons?i=leetcode" height="42" alt="LeetCode" />
   </a>
   &nbsp;&nbsp;
