@@ -1,6 +1,6 @@
 <p align="center">
   <a href="https://github.com/Gauri1466">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=26&duration=4000&pause=1000&color=F7B125&center=true&vCenter=true&width=800&lines=Hey+There!+👋+I'm+Gauri+Sonawane;💻+AI/ML+Enthusiast+%7C+Full+Stack+Developer;🎮+Creator+of+Snake+%26+Snake-Ladder+Games" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=26&duration=4000&pause=1000&color=F7B125&center=true&vCenter=true&width=800&lines=Hey+There!+👋+I'm+Gauri+Sonawane;💻+AI/ML+Enthusiast+%7C+Full+Stack+Developer;" alt="Typing SVG" />
   </a>
 </p>
 ```bash
