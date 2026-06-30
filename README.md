@@ -11,12 +11,11 @@
 
 🎯 *“I love building ideas that make learning, life, and tech feel connected.”*  
 
-💫 I’m **Gauri**, a Computer Engineering student at **PICT, Pune** (CGPA: 9.79).  
+💫 I’m **Gauri**, a Computer Engineering student** (CGPA: 9.46).  
 I’m passionate about **AI/ML, Web Development, and building smart systems**.  
 
 🌱 Currently exploring **Explainable ML**, **System Integration**, and **digital workflows**.  
-💼 Digitalization Intern at **ABB India**.  
-👩‍💼 Chairperson of **IEEE Student Branch** & VP at **ACES Committee**.
+💼 Worked as a Digitalization Intern at **ABB India**.  
 
 </div>
 
