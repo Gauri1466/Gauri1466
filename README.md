@@ -1,5 +1,8 @@
-# Gauri Sonawane
-
+<p align="center">
+  <a href="https://github.com/Gauri1466">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=26&duration=4000&pause=1000&color=F7B125&center=true&vCenter=true&width=800&lines=Hey+There!+👋+I'm+Gauri+Sonawane;💻+AI/ML+Enthusiast+%7C+Full+Stack+Developer;🎮+Creator+of+Snake+%26+Snake-Ladder+Games" alt="Typing SVG" />
+  </a>
+</p>
 ```bash
 $ curl -s https://api.gauri.dev/bio
 ```
@@ -66,23 +69,37 @@ $ curl -s https://api.gauri.dev/bio
 
 ---
 
+### 📊 Stats & Insights
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Gauri1466&show_icons=true&theme=radical&hide_border=true" height="160"/>
+  &nbsp;&nbsp;
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gauri1466&layout=compact&theme=radical&hide_border=true" height="160"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Gauri1466&theme=react-dark&hide_border=true&area=true" width="95%"/>
+</p>
+
+---
+
 
 ### 📬 Connect
 
-<p align="left">
+<p align="center">
   <a href="https://linkedin.com/in/gauri-sonawane/" target="_blank">
-    <img src="https://skillicons.dev/icons?i=linkedin" height="42" alt="LinkedIn" />
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" height="35" alt="LinkedIn" />
   </a>
   &nbsp;&nbsp;
   <a href="https://github.com/Gauri1466" target="_blank">
-    <img src="https://skillicons.dev/icons?i=github" height="42" alt="GitHub" />
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" height="35" alt="GitHub" />
   </a>
   &nbsp;&nbsp;
   <a href="https://leetcode.com/Gauri_1466/" target="_blank">
-    <img src="https://skillicons.dev/icons?i=leetcode" height="42" alt="LeetCode" />
+    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" height="35" alt="LeetCode" />
   </a>
   &nbsp;&nbsp;
   <a href="mailto:gaurisonawane1466@gmail.com">
-    <img src="https://skillicons.dev/icons?i=gmail" height="42" alt="Gmail" />
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" height="35" alt="Gmail" />
   </a>
 </p>
